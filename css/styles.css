@@ -9,6 +9,7 @@ body {
 	font-family:Red Rose, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #504f54;
 	background-color: #b1e0dfbd;
+	text-shadow: 5px 5px skyblue;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
