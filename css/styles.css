@@ -12,24 +12,14 @@ body {
 
 }
 
-.Red-Rose-h1 {
-	font-family: "Red Rose", serif;
-	text text-shadow: 2px 2px #18E449;
-	Font font-optical-sizing: auto;
-	font-weight: 600;
-	font-style: normal;
-	color: #ff077d57;
-}
-
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #b1e0dfbd;
+    background-color: #b1bbe0bd;
 }
 
 .resume-main {
-	background-color: #b1bbe0bd;
+	background-color: #fffefc;
 }
 
 .resume-aside {
