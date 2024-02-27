@@ -12,6 +12,15 @@ body {
 
 }
 
+.playfair-display-h1 {
+	font font-family: "Red Rose" serif;
+	text text-shadow: 2px 2px #1E8449;
+	Font font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #FDFEFE;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
