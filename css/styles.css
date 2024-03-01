@@ -5,16 +5,17 @@
 
 /* Styles for the body */
 
-.body {
+body {
 	font-family:Red Rose, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #1d3a8b;
 	background-color: #b1e0dfbd;
+
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #b1bbe0bd;
+    background-color: #b1e0dfbd;
 }
 
 .resume-main {
