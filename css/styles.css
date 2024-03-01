@@ -50,3 +50,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.language-level {
+	border-color: #16834C!important;
+}
