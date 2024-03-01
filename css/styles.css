@@ -8,8 +8,35 @@
 body {
 	font-family:Red Rose, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #1d3a8b;
-	background-color: #b1e0dfbd;
+	background-color: #F8F8F4;
 
+}
+
+.my-name {
+  font-family: "Red Rose", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#956AC0;
+  text-shadow: 2px 2px #DAF7A6;
+}
+
+.student {
+  font-family: "Red Rose", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#956AC0;
+  text-shadow: 2px 2px #DAF7A6;
+
+}
+
+
+.littlestar {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D6C3A0;
 }
 
 .dm-serif-display-regular {
@@ -21,11 +48,11 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #b1e0dfbd;
+    background-color: #A0C3D6 ;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F4F2C5;
 }
 
 .resume-aside {
