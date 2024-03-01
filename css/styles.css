@@ -5,28 +5,11 @@
 
 /* Styles for the body */
 
-body {
+.body {
 	font-family:Red Rose, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #1d3a8b;
 	background-color: #b1e0dfbd;
-
-.Red-Rose-h1 {
-	font-family: "Red Rose", serif;
-	text-shadow: 2px 2px #1E8449;
-	font-optical-sizing: auto;
-    font-weight:600;
-    font font-style: normal;
-    color:#FDFEFE;
 }
-
-.h5 {
-	font font-family: "Red Rose";
-	font-weight: 500;
-	font-style: normal;
-	color: #1E8449;
-	text-shadow: 2px 2px #FDFEFE;
-}
-
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
@@ -50,7 +33,6 @@ body {
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
-	tetx text-shadow: 2px 2px #7cafd6b0;
 }
 
 .biography-details li::before {
