@@ -13,21 +13,21 @@ body {
 }
 
 .my-name {
-  font-family: "Red Rose", serif;
+  font-family: "Titan One", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  color:#956AC0;
-  text-shadow: 2px 2px #DAF7A6;
+  color:#2C67C3;
+  text-shadow: 2px 2px #B4CAED;
 }
 
 .student {
-  font-family: "Red Rose", serif;
+  font-family: "BioRhyme", serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
   color:#956AC0;
-  text-shadow: 2px 2px #DAF7A6;
+  text-shadow: 2px 2px #F494BE;
 
 }
 
@@ -37,6 +37,14 @@ body {
   font-weight: 400;
   font-style: normal;
   color: #D6C3A0;
+}
+
+.letter {
+  font-family: "Grandstander", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #FBB65A;
 }
 
 .dm-serif-display-regular {
